@@ -3274,7 +3274,7 @@ section#about .about__half__artists .artist .artist-link:hover:after {
 .steps__wrapper .step__bio .step__bio__title {
   font-family: 'Lombok';
   text-transform: uppercase;
-  font-size: 70px;
+  font-size: 50px;
   font-weight: 400;
   letter-spacing: 0.2em;
 }
