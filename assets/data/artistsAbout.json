@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Alela Diane",
+    "date": "2013",
+    "album": "About Farewell",
+    "link": "http://www.3pomprod.com/fr/artistes/view/37/alela-diane/",
+    "imagePath": "assets/images/covers/about/AlelaDiane.jpg",
+    "soundPath": "assets/sounds/about/alela-diane.mp3"
+  },
+  {
+    "name": "Alice Russell",
+    "date": "2013",
+    "album": "To Dust",
+    "link": "http://www.3pomprod.com/fr/artistes/view/17/alice-russell/?of=24",
+    "imagePath": "assets/images/covers/about/AliceRussell.jpg",
+    "soundPath": "assets/sounds/about/alice-russell.mp3"
+  },
+  {
+    "name": "Anna Aaron",
+    "date": "2014",
+    "album": "Neuro",
+    "link": "http://www.3pomprod.com/fr/artistes/view/18/anna-aaron/?of=25",
+    "imagePath": "assets/images/covers/about/AnnaAaron.jpg",
+    "soundPath": "assets/sounds/about/anna-aaron.mp3"
+  },
+  {
+    "name": "Ayo",
+    "date": "2017",
+    "album": "Dirty Habits",
+    "link": "http://www.3pomprod.com/fr/artistes/view/1/ayo/?of=1",
+    "imagePath": "assets/images/covers/about/Ayo.jpg",
+    "soundPath": "assets/sounds/about/ayo.mp3"
+  },
+  {
+    "name": "Khalifé",
+    "date": "2015",
+    "album": "Ya Balad",
+    "link": "http://www.3pomprod.com/fr/artistes/view/19/bachar-mar-khalife/?of=2",
+    "imagePath": "assets/images/covers/about/BacharMar-Khalife.jpg",
+    "soundPath": "assets/sounds/about/bachar-mar-khalife.mp3"
+  },
+  {
+    "name": "BCUC",
+    "date": "2016",
+    "album": "Our Truth",
+    "link": "http://www.3pomprod.com/fr/artistes/view/64/bcuc/?of=3",
+    "imagePath": "assets/images/covers/about/BCUC.jpg",
+    "soundPath": "assets/sounds/about/bcuc.mp3"
+  },
+  {
+    "name": "Bon Voyage Organisation",
+    "date": "2016",
+    "album": "Géographie",
+    "link": "http://www.3pomprod.com/fr/artistes/view/55/bon-voyage-organisation/?of=4",
+    "imagePath": "assets/images/covers/about/BonVoyageOrganisation.jpg",
+    "soundPath": "assets/sounds/about/bon-voyage-organisation.mp3"
+  },
+  {
+    "name": "Boy",
+    "date": "2017",
+    "album": "If Not Now, Maybe Later",
+    "link": "http://www.3pomprod.com/fr/artistes/view/2/boy/?of=26",
+    "imagePath": "assets/images/covers/about/Boy.jpg",
+    "soundPath": "assets/sounds/about/boy.mp3"
+  },
+  {
+    "name": "Coely",
+    "date": "2017",
+    "album": "Different Waters",
+    "link": "http://www.3pomprod.com/fr/artistes/view/3/coely/?of=27",
+    "imagePath": "assets/images/covers/about/Coely.jpg",
+    "soundPath": "assets/sounds/about/coely.mp3"
+  },
+  {
+    "name": "Deva Mahal",
+    "date": "2017",
+    "album": "Deva Mahal",
+    "link": "http://www.3pomprod.com/fr/artistes/view/68/deva-mahal/?of=5",
+    "imagePath": "assets/images/covers/about/DevaMahal.jpg",
+    "soundPath": "assets/sounds/about/deva-mahal.mp3"
+  },
+  {
+    "name": "El Gusto",
+    "date": "2017",
+    "album": "El Gusto",
+    "link": "http://www.3pomprod.com/fr/artistes/view/4/el-gusto/?of=44",
+    "imagePath": "assets/images/covers/about/ElGusto.jpg",
+    "soundPath": "assets/sounds/about/el-chaabi.mp3"
+  },
+  {
+    "name": "Elisa Jo",
+    "date": "2013",
+    "album": "Defeated",
+    "link": "http://www.3pomprod.com/fr/artistes/view/20/elisa-jo/?of=28",
+    "imagePath": "assets/images/covers/about/ElisaJo.jpg",
+    "soundPath": "assets/sounds/about/elisa-jo.mp3"
+  },
+  {
+    "name": "Ernest Ranglin & Friends",
+    "date": "2015",
+    "album": "Softly With Ranglin",
+    "link": "http://www.3pomprod.com/fr/artistes/view/5/ernest-ranglin-friends/?of=45",
+    "imagePath": "assets/images/covers/about/ErnestRanglin_Friends.jpg",
+    "soundPath": "assets/sounds/about/ernest-ranglin.mp3"
+  },
+  {
+    "name": "Femi Kuti",
+    "date": "2013",
+    "album": "No Place for My Dream",
+    "link": "http://www.3pomprod.com/fr/artistes/view/21/femi-kuti/?of=6",
+    "imagePath": "assets/images/covers/about/FemiKuti.jpg",
+    "soundPath": "assets/sounds/about/femi-kuti.mp3"
+  },
+  {
+    "name": "Gili Yalo",
+    "date": "2017",
+    "album": "Gili Yalo",
+    "link": "http://www.3pomprod.com/fr/artistes/view/61/gili-yalo/?of=7",
+    "imagePath": "assets/images/covers/about/GiliYalo.jpg",
+    "soundPath": "assets/sounds/about/gili-yalo.mp3"
+  },
+  {
+    "name": "Hindi Zahra",
+    "date": "2015",
+    "album": "Homeland",
+    "link": "http://www.3pomprod.com/fr/artistes/view/22/hindi-zahra/?of=8",
+    "imagePath": "assets/images/covers/about/HindiZahra.jpg",
+    "soundPath": "assets/sounds/about/hindi-zahra.mp3"
+  },
+  {
+    "name": "IFE",
+    "date": "2017",
+    "album": "Thoughtz and Rhymes",
+    "link": "http://www.3pomprod.com/fr/artistes/view/6/ife/?of=9",
+    "imagePath": "assets/images/covers/about/IFE.jpg",
+    "soundPath": "assets/sounds/about/ife.mp3"
+  },
+  {
+    "name": "Jacob Mafuleni & Gary Gritness",
+    "date": "2011",
+    "album": "Njari Makonde",
+    "link": "http://www.3pomprod.com/fr/artistes/view/62/jacob-mafuleni-gary-gritness/?of=29",
+    "imagePath": "assets/images/covers/about/JacobMafuleni_GaryGritness.jpg",
+    "soundPath": "assets/sounds/about/jacob-mafuleni-gary-gritness-atuka.mp3"
+  },
+  {
+    "name": "James Vincent McMorrow",
+    "date": "2017",
+    "album": "True Care",
+    "link": "http://www.3pomprod.com/fr/artistes/view/24/james-vincent-mcmorrow/?of=30",
+    "imagePath": "assets/images/covers/about/JamesVincentMcMorrow.jpg",
+    "soundPath": "assets/sounds/about/james-vincent-mcmorrow.mp3"
+  },
+  {
+    "name": "Joanna Newsom",
+    "date": "2015",
+    "album": "Divers",
+    "link": "http://www.3pomprod.com/fr/artistes/view/25/joanna-newsom/?of=31",
+    "imagePath": "assets/images/covers/about/JoannaNewsom.jpg",
+    "soundPath": "assets/sounds/about/joanna-newsom.mp3"
+  },
+  {
+    "name": "Juveniles",
+    "date": "2017",
+    "album": "Whithout Warning",
+    "link": "http://www.3pomprod.com/fr/artistes/view/7/juveniles/?of=10",
+    "imagePath": "assets/images/covers/about/Juveniles.jpg",
+    "soundPath": "assets/sounds/about/juveniles.mp3"
+  },
+  {
+    "name": "Kamasi Washington",
+    "date": "2017",
+    "album": "Harmony of Difference",
+    "link": "http://www.3pomprod.com/fr/artistes/view/26/kamasi-washington/?of=11",
+    "imagePath": "assets/images/covers/about/KamasiWashington.jpg",
+    "soundPath": "assets/sounds/about/kamasi-washington.mp3"
+  },
+  {
+    "name": "Kate Tempest",
+    "date": "2016",
+    "album": "Let Them Eat Chaos",
+    "link": "http://www.3pomprod.com/fr/artistes/view/27/kate-tempest/?of=12",
+    "imagePath": "assets/images/covers/about/KateTempest.jpg",
+    "soundPath": "assets/sounds/about/kate-tempest.mp3"
+  },
+  {
+    "name": "Labelle",
+    "date": "2017",
+    "album": "Oasis",
+    "link": "http://www.3pomprod.com/fr/artistes/view/54/la-chica/?of=13",
+    "imagePath": "assets/images/covers/about/Labelle.jpg",
+    "soundPath": "assets/sounds/about/labelle.mp3"
+  },
+  {
+    "name": "La Chica",
+    "date": "2016",
+    "album": "Magnetismo",
+    "link": "http://www.3pomprod.com/fr/artistes/view/8/la-yegros/?of=32",
+    "imagePath": "assets/images/covers/about/LaChica.jpg",
+    "soundPath": "assets/sounds/about/la-chica.mp3"
+  },
+  {
+    "name": "La Yegros",
+    "date": "2008",
+    "album": "Back to Now",
+    "link": "http://www.3pomprod.com/fr/artistes/view/60/labelle/?of=14",
+    "imagePath": "assets/images/covers/about/LaYegros.jpg",
+    "soundPath": "assets/sounds/about/la-yegros.mp3"
+  },
+  {
+    "name": "Liam Finn",
+    "date": "2014",
+    "album": "I'll Be Lightning",
+    "link": "http://www.3pomprod.com/fr/artistes/view/28/liam-finn/?of=33",
+    "imagePath": "assets/images/covers/about/LiamFinn.jpg",
+    "soundPath": "assets/sounds/about/liam-finn.mp3"
+  },
+  {
+    "name": "Lindi Ortega",
+    "date": "2015",
+    "album": "Faded Gloryville",
+    "link": "http://www.3pomprod.com/fr/artistes/view/29/lindi-ortega/?of=34",
+    "imagePath": "assets/images/covers/about/LindiOrtega.jpg",
+    "soundPath": "assets/sounds/about/lindi-ortega.mp3"
+  },
+  {
+    "name": "Lucky Chops",
+    "date": "2017",
+    "album": "Walter",
+    "link": "http://www.3pomprod.com/fr/artistes/view/9/lucky-chops/?of=35",
+    "imagePath": "assets/images/covers/about/LuckyChops.jpg",
+    "soundPath": "assets/sounds/about/lucky-chops.mp3"
+  },
+  {
+    "name": "White",
+    "date": "2015",
+    "album": "Fresh Blood",
+    "link": "http://www.3pomprod.com/fr/artistes/view/30/matthew-e-white/?of=36",
+    "imagePath": "assets/images/covers/about/MatthewE.White.jpg",
+    "soundPath": "assets/sounds/about/matthew-e-white.mp3.jpg"
+  },
+  {
+    "name": "Mayra Andrade",
+    "date": "2013",
+    "album": "Lovely Difficult",
+    "link": "http://www.3pomprod.com/fr/artistes/view/31/mayra-andrade/?of=15",
+    "imagePath": "assets/images/covers/about/MayraAndrade.jpg",
+    "soundPath": "assets/sounds/about/mayra-andrade.mp3"
+  },
+  {
+    "name": "Melanie de Biasio",
+    "date": "2016",
+    "album": "Blackened Cities",
+    "link": "http://www.3pomprod.com/fr/artistes/view/32/melanie-de-biasio/?of=16",
+    "imagePath": "assets/images/covers/about/MelaniedeBiasio.jpg",
+    "soundPath": "assets/sounds/about/melanie-de-biasio.mp3"
+  },
+  {
+    "name": "Moses Boyd",
+    "date": "2017",
+    "album": "Absolute Zero",
+    "link": "http://www.3pomprod.com/fr/artistes/view/56/moses-boyd/?of=17",
+    "imagePath": "assets/images/covers/about/MosesBoyd.jpg",
+    "soundPath": "assets/sounds/about/moses-boyd.mp3"
+  },
+  {
+    "name": "Palm Unit",
+    "date": "2017",
+    "album": "Palm Unit",
+    "link": "http://www.3pomprod.com/fr/artistes/view/57/palm-unit/?of=37",
+    "imagePath": "assets/images/covers/about/PalmUnit.jpg",
+    "soundPath": "assets/sounds/about/palm-unit.mp3"
+  },
+  {
+    "name": "Shantel",
+    "date": "2016",
+    "album": "A Ty Daj",
+    "link": "http://www.3pomprod.com/fr/artistes/view/10/shantel/?of=38",
+    "imagePath": "assets/images/covers/about/Shantel.jpg",
+    "soundPath": "assets/sounds/about/shantel.mp3"
+  },
+  {
+    "name": "Sibusile Xaba & Thabang Thabane",
+    "date": "2017",
+    "album": "Open Letter To Adoniah",
+    "link": "http://www.3pomprod.com/fr/artistes/view/59/sibusile-xaba-thabang-thabane/?of=39",
+    "imagePath": "assets/images/covers/about/SibusileXaba_ThabangThabane.jpg",
+    "soundPath": "assets/sounds/about/sibusile-xaba-thabang-thabane.mp3"
+  },
+  {
+    "name": "Songhoy Blues",
+    "date": "2017",
+    "album": "Résistance",
+    "link": "http://www.3pomprod.com/fr/artistes/view/11/songhoy-blues/?of=18",
+    "imagePath": "assets/images/covers/about/SonghoyBlues.jpg",
+    "soundPath": "assets/sounds/about/songhoy-blues.mp3"
+  },
+  {
+    "name": "Sons of Kemet",
+    "date": "2015",
+    "album": "Lest we forget what we came here to do",
+    "link": "http://www.3pomprod.com/fr/artistes/view/53/sons-of-kemet/?of=19",
+    "imagePath": "assets/images/covers/about/SonsofKemet.jpg",
+    "soundPath": "assets/sounds/about/sons-of-kemet.mp3"
+  },
+  {
+    "name": "Susanne Sundfor",
+    "date": "2017",
+    "album": "Music for people in trouble",
+    "link": "http://www.3pomprod.com/fr/artistes/view/35/susanne-sundfor/?of=40",
+    "imagePath": "assets/images/covers/about/SusanneSundfor.jpg",
+    "soundPath": "assets/sounds/about/susanne-sundfor.mp3"
+  },
+  {
+    "name": "The Comet is Coming",
+    "date": "2017",
+    "album": "Death to the Planet",
+    "link": "http://www.3pomprod.com/fr/artistes/view/65/the-comet-is-coming/?of=41",
+    "imagePath": "assets/images/covers/about/TheCometisComing.jpg",
+    "soundPath": "assets/sounds/about/the-comet-is-coming.mp3"
+  },
+  {
+    "name": "The Souljazz Orchestra",
+    "date": "2017",
+    "album": "Under Burning Skies",
+    "link": "http://www.3pomprod.com/fr/artistes/view/13/the-souljazz-orchestra/?of=42",
+    "imagePath": "assets/images/covers/about/TheSouljazzOrchestra.jpg",
+    "soundPath": "assets/sounds/about/the-souljazz-orchestra.mp3"
+  },
+  {
+    "name": "Tinariwen",
+    "date": "2017",
+    "album": "Elwan",
+    "link": "http://www.3pomprod.com/fr/artistes/view/14/tinariwen/?of=20",
+    "imagePath": "assets/images/covers/about/Tinariwen.jpg",
+    "soundPath": "assets/sounds/about/tinariwen.mp3"
+  },
+  {
+    "name": "Tony Allen",
+    "date": "2014",
+    "album": "Film of Life",
+    "link": "http://www.3pomprod.com/fr/artistes/view/36/tony-allen/?of=21",
+    "imagePath": "assets/images/covers/about/TonyAllen.jpg",
+    "soundPath": "assets/sounds/about/tony-allen.mp3"
+  },
+  {
+    "name": "True Live",
+    "date": "2011",
+    "album": "Found Lost",
+    "link": "http://www.3pomprod.com/fr/artistes/view/15/true-live/?of=43",
+    "imagePath": "assets/images/covers/about/TrueLive.jpg",
+    "soundPath": "assets/sounds/about/true-live.mp3"
+  },
+  {
+    "name": "Vaudou Game",
+    "date": "2016",
+    "album": "Kidayu",
+    "link": "http://www.3pomprod.com/fr/artistes/view/63/vaudou-game/?of=22",
+    "imagePath": "assets/images/covers/about/VaudouGame.jpg",
+    "soundPath": "assets/sounds/about/vaudou-game.mp3"
+  },
+  {
+    "name": "Vulfpeck",
+    "date": "2017",
+    "album": "Mr. Finish Line",
+    "link": "http://www.3pomprod.com/fr/artistes/view/38/vulfpeck/?of=23",
+    "imagePath": "assets/images/covers/about/Vulfpeck.jpg",
+    "soundPath": "assets/sounds/about/vulfpeck.mp3"
+  }
+]
